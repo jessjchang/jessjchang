@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hey, I'm Jessica! 👋
 
-<!--
-**jessjchang/jessjchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I’m a full-stack software engineer dually based in New York City :city_sunset: and the San Francisco Bay Area :bridge_at_night:. I love collaborating in team environments and am always eager to ramp up on new technologies!
 
-Here are some ideas to get you started:
+#### Most recently, I co-created [Bubble](https://bubble-framework.github.io/)<a href="https://bubble-framework.github.io/"><img src="https://raw.githubusercontent.com/jessjchang/jessjchang/main/images/bubble-logo-solo-color.png" alt="Bubble Logo" width="30px"/></a>, an open-source framework that automates the deployment of dynamic front-end preview apps by leveraging multiple AWS services <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="21px" /> (CloudFront <img src="https://raw.githubusercontent.com/jessjchang/jessjchang/main/images/cloudfront.png" alt="Cloudfront" width="21px"/>, S3 <img src="https://raw.githubusercontent.com/jessjchang/jessjchang/main/images/s3.png" alt="S3" width="21px"/>, Lambda@Edge <img src="https://raw.githubusercontent.com/jessjchang/jessjchang/main/images/lambda.png" alt="Lambda" width="21px"/>, DynamoDB <img src="https://raw.githubusercontent.com/jessjchang/jessjchang/main/images/dynamodb.png" alt="DynamoDB" width="21px"/>, IAM <img src="https://raw.githubusercontent.com/jessjchang/jessjchang/main/images/iam.png" alt="IAM" width="21px"/>), GitHub Actions <img src="https://raw.githubusercontent.com/jessjchang/jessjchang/main/images/githubactions.png" alt="GitHub Actions" width="21px"/>, and Node.js <img src="https://raw.githubusercontent.com/jessjchang/jessjchang/main/images/node-js-1174925.png" alt="NodeJS" width="21px"/>. For a technical deep dive on how Bubble was built, check out our [case study](https://bubble-framework.github.io/case-study)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+### :zap: Skills:
+* **Languages:** JavaScript, Ruby, Go, SQL, CSS, HTML, TypeScript
+* **Frameworks &amp; Libraries:** React/Redux, Express, Handlebars, jQuery, Next.js, Sinatra
+* **Cloud:** AWS (CloudFront, DynamoDB, EC2, ECS, IAM, Lambda, Lambda@Edge, S3), DigitalOcean (Droplets), Heroku
+* **Other Technologies:** Git, GitHub Actions, MongoDB, Node.js, PostgreSQL, RESTful APIs, Bash, Docker, Webhooks
+
+</br>
+
+### :handshake: Connect with me!
+
+* 👩🏻‍💻 [Personal Website](https://www.jessjchang.com/)
+
+* <a href="https://www.linkedin.com/in/jessica-chang-87ba342b/"><img src="https://raw.githubusercontent.com/jessjchang/jessjchang/main/images/linkedin.png" alt="Jessica Chang | LinkedIn" width="21px"/></a> [LinkedIn](https://www.linkedin.com/in/jessica-chang-87ba342b/)
