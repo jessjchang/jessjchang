@@ -8,7 +8,7 @@
 
 ### :zap: Skills:
 * **Languages:** JavaScript, Ruby, Go, SQL, CSS, HTML, TypeScript
-* **Frameworks &amp; Libraries:** React/Redux, Express, Handlebars, jQuery, Next.js, Sinatra
+* **Frameworks:** React/Redux, Express, Handlebars, jQuery, Next.js, Sinatra
 * **Cloud:** AWS (CloudFront, DynamoDB, EC2, ECS, IAM, Lambda, Lambda@Edge, S3), DigitalOcean (Droplets), Heroku
 * **Other Technologies:** Git, GitHub Actions, MongoDB, Node.js, PostgreSQL, RESTful APIs, Bash, Docker, Webhooks
 
